@@ -1,0 +1,8 @@
+Three popular websites that use React their  one "reusable" part are follows :
+
+
+1-Facebook -The ChatBox component - Each instance of the component receives different Props (the friend’s name, their profile picture, and the message history). The "State" handles whether the window is minimized or popped up.
+2-Instagram - The StoryCircle component - The story circles appear at the top of the home screen.
+3-Netflix - The MovieRow component - The Row component is a container that takes a "Title" (like "Trending Now") and an "Array of Data" (the movies). It then maps through that data to generate the individual movie cards.
+
+
